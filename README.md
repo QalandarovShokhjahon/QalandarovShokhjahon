@@ -16,6 +16,7 @@
 - 💻 I work with HTML, CSS, JavaScript, and TailwindCSS  
 - 🚀 Currently improving my UI/UX and front-end architecture skills  
 - 🌱 Passionate about design, creativity, and performance  
+- 📍 Current location: Navoi, Uzbekiston
 - ✉️ Reach me at: shokhjaxonqalandarov@gmail.com
 
 ---
