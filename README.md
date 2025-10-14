@@ -51,7 +51,7 @@
 ---
 
 ### 🧮 Top Languages
-<p align="center"> JavaScript
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokhjahon&layout=compact&title_color=FF6B00&text_color=333&hide_border=true"/>
 </p>
 
