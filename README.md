@@ -65,7 +65,7 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="mailto:shokhjaxonqalandarov@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/Dassturchi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/dev_ake"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/QalandarovShokhjahon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
