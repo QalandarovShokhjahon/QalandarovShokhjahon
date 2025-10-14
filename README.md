@@ -27,7 +27,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🧩 [**TechWebby**](#) — My personal tech and coding project  
+- 🧩 [**TechWebby**](#) — My big project for the near future 
 - 🎨 [**Portfolio Website**](#) — Clean, responsive portfolio built with TailwindCSS  
 - ⚡ [**Mini JS Apps**](#) — Small but powerful JavaScript practice projects  
 
