@@ -17,7 +17,7 @@
 - 🚀 Currently sharpening my front-end and UI/UX skills  
 - 🌱 Passionate about modern design and user experience  
 - ✉️ Reach me at: shokhjaxonqalandarov@gmail.com
-
+- 📍Current location: Navoi, Uzbekiston
 ---
 
 ### ⚙️ Tech Stack
