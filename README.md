@@ -12,7 +12,7 @@
 - 💻 I work with HTML, CSS, JavaScript, and TailwindCSS
 - 🚀 Currently learning advanced front-end concepts  
 - 🌱 Always curious about design, UI, and performance optimization  
-- ✉️ Reach me at: shokhjahon.dev@gmail.com
+- ✉️ Reach me at: shokhjaxonqalandarov@gmail.com
 
 ---
 
