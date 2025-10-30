@@ -40,13 +40,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shokhjahon&show_icons=true&theme=default&title_color=FF6B00&icon_color=FF6B00&text_color=333&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QalandarovShokhjahon&show_icons=true&theme=default&title_color=FF6B00&icon_color=FF6B00&text_color=333&hide_border=true" alt="GitHub stats"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Activity Graph
-[![Shokhjahon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shokhjahon&bg_color=ffffff&color=FF6B00&line=FF6B00&point=FFA851&area=true&hide_border=true)](https://github.com/Shokhjahon)
+[![Shokhjahon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shokhjahon&bg_color=ffffff&color=FF6B00&line=FF6B00&point=FFA851&area=true&hide_border=true)](https://github.com/QalandarovShokhjahon)
 
 ---
 
