@@ -46,13 +46,13 @@
 ---
 
 ### 🔥 GitHub Activity Graph
-[![Shokhjahon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shokhjahon&bg_color=ffffff&color=FF6B00&line=FF6B00&point=FFA851&area=true&hide_border=true)](https://github.com/QalandarovShokhjahon)
+[![Shokhjahon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QalandarovShokhjahon&bg_color=ffffff&color=FF6B00&line=FF6B00&point=FFA851&area=true&hide_border=true)](https://github.com/QalandarovShokhjahon)
 
 ---
 
 ### 🧮 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokhjahon&layout=compact&title_color=FF6B00&text_color=333&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarovShokhjahon&layout=compact&title_color=FF6B00&text_color=333&hide_border=true"/>
 </p>
 
 ---
