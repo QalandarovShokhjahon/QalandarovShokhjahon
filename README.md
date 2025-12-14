@@ -13,11 +13,11 @@
 ---
 
 ### 🧠 About Me
-- 💻 I work with HTML, CSS, JavaScript, and TailwindCSS  
+- 💻 I work with HTML, CSS, JavaScript, TailwindCSS, React  
 - 🚀 Currently improving my UI/UX and front-end architecture skills  
 - 🌱 Passionate about design, creativity, and performance  
-- 📍 Current location: Navoi, Uzbekiston
-- ✉️ Reach me at: shokhjaxonqalandarov@gmail.com
+- 📍 Current location: Navoi, Uzbekistan  
+- ✉️ Reach me at: shokhjaxonqalandarov@gmail.com  
 
 ---
 
@@ -30,11 +30,57 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
+---
+
+### 🧭 Frontend Roadmap
+
+#### ✅ Fundamentals
+- [x] HTML5  
+- [x] CSS3  
+- [x] Responsive Design  
+- [x] JavaScript (ES6+)  
+
+#### 🎨 Styling
+- [x] Tailwind CSS  
+- [ ] CSS Animations  
+
+#### ⚙️ JavaScript Deep Dive
+- [x] Arrays & Methods  
+- [x] map(), filter(), reduce()  
+- [ ] Async JavaScript (Promise, async/await)  
+
+#### ⚛️ ReactJS
+- [x] React Basics  
+- [x] Vite Setup  
+- [ ] JSX & Components  
+- [ ] Props  
+- [ ] State & Hooks (useState, useEffect)  
+- [ ] React Router  
+
+#### 🛠 Tools & Workflow
+- [x] Git & GitHub  
+- [ ] npm / package managers  
+- [ ] ESLint & Prettier  
+
+#### 🚀 Deployment
+- [ ] Netlify  
+- [ ] Vercel  
+
+#### 🎯 Goal
+- [ ] Build real-world projects  
+- [ ] Become a professional Frontend Developer  
+
+---
+
+### 📈 Learning Progress
+- 📘 JavaScript — Day 1 → Day 13  
+- ⚛️ ReactJS — Day 1 (Introduction & Vite)  
+- 🚧 Currently learning: **JSX & Components**
 
 ---
 
 ### 📂 Featured Projects
-- 🧩 [**TechWebby**](#) — My big project for the near future 
+- 🧩 [**TechWebby**](#) — My big project for the near future  
 - 🎨 [**Portfolio Website**](#) — Responsive portfolio built with TailwindCSS  
 - ⚡ [**Mini JS Apps**](#) — Small yet powerful JavaScript experiments  
 
@@ -42,7 +88,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QalandarovShokhjahon&show_icons=true&theme=default&title_color=FF6B00&icon_color=FF6B00&text_color=333&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QalandarovShokhjahon&show_icons=true&theme=default&title_color=FF6B00&icon_color=FF6B00&text_color=333&hide_border=true"/>
 </p>
 
 ---
@@ -66,9 +112,9 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="mailto:shokhjaxonqalandarov@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/dev_ake"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/QalandarovShokhjahon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shokhjaxonqalandarov@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/dev_ake"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/QalandarovShokhjahon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
