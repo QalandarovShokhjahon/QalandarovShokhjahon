@@ -34,13 +34,6 @@
 
 ---
 
-### 📈 Learning Progress
-- 📘 JavaScript — Day 1 → Day 13  
-- ⚛️ ReactJS — Day 1 (Introduction & Vite)  
-- 🚧 Currently learning: **JSX & Components**
-
----
-
 ### 📂 Featured Projects
 - 🧩 [**TechWebby**](#) — My big project for the near future  
 - 🎨 [**Portfolio Website**](#) — Responsive portfolio built with TailwindCSS  
