@@ -30,45 +30,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
----
-
-### 🧭 Frontend Roadmap
-
-#### ✅ Fundamentals
-- [x] HTML5  
-- [x] CSS3  
-- [x] Responsive Design  
-- [x] JavaScript (ES6+)  
-
-#### 🎨 Styling
-- [x] Tailwind CSS  
-- [ ] CSS Animations  
-
-#### ⚙️ JavaScript Deep Dive
-- [x] Arrays & Methods  
-- [x] map(), filter(), reduce()  
-- [ ] Async JavaScript (Promise, async/await)  
-
-#### ⚛️ ReactJS
-- [x] React Basics  
-- [x] Vite Setup  
-- [ ] JSX & Components  
-- [ ] Props  
-- [ ] State & Hooks (useState, useEffect)  
-- [ ] React Router  
-
-#### 🛠 Tools & Workflow
-- [x] Git & GitHub  
-- [ ] npm / package managers  
-- [ ] ESLint & Prettier  
-
-#### 🚀 Deployment
-- [ ] Netlify  
-- [ ] Vercel  
-
-#### 🎯 Goal
-- [ ] Build real-world projects  
-- [ ] Become a professional Frontend Developer  
+---  
 
 ---
 
