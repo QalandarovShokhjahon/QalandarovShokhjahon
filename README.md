@@ -35,7 +35,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🧩 [**TechWebby**](#) — My big project for the near future  
+- 🧩 [**TechWebby**](https://techwebby.uz/) — My big project for the near future  
 - 🎨 [**Portfolio Website**](#) — Responsive portfolio built with TailwindCSS  
 - ⚡ [**Mini JS Apps**](#) — Small yet powerful JavaScript experiments  
 
